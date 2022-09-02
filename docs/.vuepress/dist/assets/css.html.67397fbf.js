@@ -1,0 +1,1 @@
+import{_ as s,o as c,c as t,a as e,b as a}from"./app.cd6fbaf2.js";const o={},r=e("h2",{id:"css\u3011",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#css\u3011","aria-hidden":"true"},"#"),a(" CSS\u3011")],-1),n=[r];function _(d,i){return c(),t("div",null,n)}const l=s(o,[["render",_],["__file","css.html.vue"]]);export{l as default};
