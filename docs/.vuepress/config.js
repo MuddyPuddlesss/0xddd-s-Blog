@@ -6,6 +6,8 @@ export default defineUserConfig({
   description: '这是个杂七杂八的Blog记录平台',
 	base: '/0xddd-s-Blog/',
 	theme: defaultTheme({
+		contributors: false,
+		lastUpdated: false,
 		logo: '/assets/my.png',
 		navbar: [
 			{ text: '首页', link: '/' },
