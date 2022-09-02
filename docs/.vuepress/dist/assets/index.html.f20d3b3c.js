@@ -1,1 +1,0 @@
-import{_ as e,o,c as t,a as c}from"./app.cd6fbaf2.js";const n={},_=c("p",null,"#Hello word",-1),s=[_];function l(r,a){return o(),t("div",null,s)}const i=e(n,[["render",l],["__file","index.html.vue"]]);export{i as default};

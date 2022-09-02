@@ -4,6 +4,7 @@ import { searchPlugin } from '@vuepress/plugin-search'
 export default defineUserConfig({
   title: "0xdddd's Blog",
   description: '这是个杂七杂八的Blog记录平台',
+	base: '/0xddd-s-Blog/',
 	theme: defaultTheme({
 		logo: '/assets/my.png',
 		navbar: [
